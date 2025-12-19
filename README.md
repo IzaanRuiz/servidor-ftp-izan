@@ -54,13 +54,9 @@ S'ha configurat un accés anònim i tres usuaris corporatius amb diferents privi
 
 
 | Usuari | Velocitat màxima | Connexions per IP |
-
 | :--- | :--- | :--- |
-
 | **Anònim** | 512 KB/s | 3 |
-
 | **client1** | 512 KB/s | 2 |
-
 | **empleat1** | 2 MB/s | 3 |
 
 
