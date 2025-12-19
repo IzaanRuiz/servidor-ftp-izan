@@ -1,0 +1,21 @@
+services:
+  ftp-server:
+    build: .
+    container_name: techfilesftp-iruiz
+    ports:
+      - "21:21"
+      - "21100-21110:21100-21110"
+    volumes:
+      - ./config/vsftpd.conf:/etc/vsftpd.conf
+      - ./data/public:/var/ftp/public
+      - ./data/users:/home/ftpusers
+      - ./logs:/var/log
+    environment:
+      - TZ=Europe/Madrid
+    restart: unless-stopped
+    networks:
+      - ftp-network
+
+networks:
+  ftp-network:
+    driver: bridge

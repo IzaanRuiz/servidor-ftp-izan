@@ -1,0 +1,13 @@
+Thu Dec 18 16:33:27 2025 1 127.0.0.1 29 /projectes/prova_izan.txt b _ i r empleat1 ftp 0 * c
+Thu Dec 18 16:33:42 2025 1 127.0.0.1 0 /manual.txt b _ o r empleat1 ftp 0 * i
+Thu Dec 18 16:35:54 2025 1 127.0.0.1 25 /manual.txt b _ o r empleat1 ftp 0 * c
+Thu Dec 18 16:43:34 2025 1 127.0.0.1 16 /remote_folder/document.txt b _ i r empleat1 ftp 0 * c
+Thu Dec 18 16:43:39 2025 1 127.0.0.1 16 /remote_folder/document.txt b _ o r empleat1 ftp 0 * c
+Thu Dec 18 16:48:54 2025 1 172.20.0.1 807763 /projectes/carpeta_filezilla/12_-_MS003_-_RA_3_-_Programaci?_modular_-_Llibreries_i_entorns_virtuals.pdf b _ i r empleat1 ftp 0 * c
+Thu Dec 18 16:49:00 2025 1 172.20.0.1 1158382 /projectes/carpeta_filezilla/13_-_MS003_-_RA_3_-_Programaci?_modular_-_Interf?cies_gr?fiques__tkinter_I_(1).pdf b _ i r empleat1 ftp 0 * c
+Thu Dec 18 16:51:03 2025 1 172.20.0.1 1135964 /projectes/carpeta_filezilla/AEA2-Ruiz_Izan.zip.zip b _ i r empleat1 ftp 0 * c
+Thu Dec 18 16:51:10 2025 1 172.20.0.1 1135964 /projectes/carpeta_filezilla/AEA2-Ruiz_Izan.zip.zip b _ o r empleat1 ftp 0 * c
+Thu Dec 18 16:51:30 2025 1 172.20.0.1 807763 /projectes/carpeta_filezilla/12_-_MS003_-_RA_3_-_Programaci???_modular_-_Llibreries_i_entorns_virtuals.pdf b _ o r empleat1 ftp 0 * c
+Thu Dec 18 16:51:30 2025 1 172.20.0.1 1158382 /projectes/carpeta_filezilla/13_-_MS003_-_RA_3_-_Programaci???_modular_-_Interf???cies_gr???fiques__tkinter_I_(1).pdf b _ o r empleat1 ftp 0 * c
+Thu Dec 18 16:51:59 2025 1 172.20.0.1 807763 /projectes/carpeta_filezilla/12_-_MS003_-_RA_3_-_Programaci???_modular_-_Llibreries_i_entorns_virtuals.pdf b _ o r empleat1 ftp 0 * c
+Thu Dec 18 16:51:59 2025 1 172.20.0.1 1158382 /projectes/carpeta_filezilla/13_-_MS003_-_RA_3_-_Programaci???_modular_-_Interf???cies_gr???fiques__tkinter_I_(1).pdf b _ o r empleat1 ftp 0 * c
