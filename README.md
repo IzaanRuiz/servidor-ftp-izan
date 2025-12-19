@@ -37,7 +37,6 @@ El servidor corre sobre Docker per garantir la portabilitat.
 
 
 
-**Captura 1:** 
 ![Estat del contenidor](captures/Screenshot\_1.png)  
 
 
@@ -66,7 +65,6 @@ S'ha configurat un accés anònim i tres usuaris corporatius amb diferents privi
 
 
 
-**Captura 2:** 
 ![Estructura de fitxers](captures/Screenshot\_2.png)  
 
 
@@ -81,7 +79,6 @@ He realitzat proves amb el client `ftp` estàndard per comprovar el canvi de mod
 
 
 
-**Captura 3:** 
 ![Mode Actiu vs Passiu](captures/Screenshot\_3.png)  
 
 
@@ -92,12 +89,10 @@ S'ha provat la pujada (`put`) i descàrrega (`get`) de fitxers de prova. També 
 
 
 
-**Captura 4:** 
 ![Pujada de fitxers](captures/Screenshot\_4.png)  
 
 
 
-**Captura 5:** 
 ![Comandes avançades lftp](captures/Screenshot\_5.png)  
 
 
@@ -108,7 +103,6 @@ S'ha utilitzat el client gràfic FileZilla per validar la facilitat d'ús de l'u
 
 
 
-**Captura 6:** 
 ![Interfície FileZilla](captures/Screenshot\_6.png)  
 
 
